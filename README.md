@@ -1,6 +1,6 @@
 # BPhysics
 [![GitHub release](https://img.shields.io/github/v/release/lucamazzza/BData?color=green&label=latest%20release&sort=semver)](https://github.com/lucamazzza/BData/releases/latest)
-[![JDK Version](https://img.shields.io/badge/SDK-7.0-8c58d3.svg)](https://www.oracle.com/java/technologies/downloads/#java17)
+[![JDK Version](https://img.shields.io/badge/SDK-7.0-8c58d3.svg)](https://devblogs.microsoft.com/dotnet/new-features-in-c-7-0/)
 [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
 [![Discord Badge](https://img.shields.io/discord/1119987238202261664?color=5865F2&label=&logo=discord&logoColor=white)](https://discord.gg/B3yXwmHb2V)
 
